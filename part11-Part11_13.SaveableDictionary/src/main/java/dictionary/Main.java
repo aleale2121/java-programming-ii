@@ -1,7 +1,10 @@
 package dictionary;
 
+import java.util.List;
+
 public class Main {
+
     public static void main(String[] args) {
-        // You can test your dictionary here
+
     }
 }
